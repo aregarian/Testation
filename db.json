@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "id": "f919",
+      "name": "Drake",
+      "surname": "Kalush",
+      "age": 35,
+      "address": "New York City"
+    },
+    {
+      "id": "be3e",
+      "name": "Lana ",
+      "surname": "Del Rey",
+      "age": 42,
+      "address": "California "
+    },
+    {
+      "id": "90f9",
+      "name": "Adele",
+      "surname": "Qurut",
+      "age": 48,
+      "address": "London"
+    },
+    {
+      "id": "267e",
+      "name": "Harry",
+      "surname": "Styles",
+      "age": 28,
+      "address": "Manchester"
+    },
+    {
+      "id": "e43c",
+      "name": "Jaloliddin",
+      "surname": "Valiev",
+      "age": 23,
+      "address": "Tursunzade"
+    }
+  ]
+}

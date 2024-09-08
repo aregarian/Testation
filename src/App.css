@@ -1,0 +1,35 @@
+.appContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+  padding: 20px; /* Add padding around the main container */
+  background-color: #f4f4f9; /* Light background color for contrast */
+  min-height: 100vh; /* Ensure the container takes up at least the full viewport height */
+}
+
+.dataTableWrapper {
+  width: 100%;
+  max-width: 1000px; /* Maximum width for the table */
+  margin-bottom: 20px; /* Space below the table */
+}
+
+.addRecordButton {
+  background-color: #3f51b5; /* Primary color */
+  color: white; /* White text */
+  padding: 10px 20px; /* Padding around the button */
+  border: none; /* Remove border */
+  border-radius: 4px; /* Slightly rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Smooth transition for background color */
+  font-size: 16px; /* Font size */
+}
+
+.addRecordButton:hover {
+  background-color: #283593; /* Darker shade on hover */
+}
+
+.header {
+  font-size: 2em; /* Larger font size for the header */
+  color: #3f51b5; /* Primary color */
+  margin-bottom: 20px; /* Space below the header */
+}
